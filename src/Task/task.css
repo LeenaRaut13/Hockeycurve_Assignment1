@@ -1,0 +1,30 @@
+h1{
+    font-size: 2vw;
+}
+
+input{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 50px;
+}
+.title{
+    width: 10%;
+    padding-left: 10px;
+}
+.description{
+    width: 30%;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.button{
+    background-color: aqua;
+    border: none;
+    color: white;
+    margin-left: 50px;
+    height: 3vw;
+    width: 10vw;
+    border-radius: 5px;
+}
+
